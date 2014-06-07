@@ -1,0 +1,15 @@
+{
+  "name": "web-analyzer",
+  "version": "0.0.1",
+  "author": {
+    "name": "Daniele Brugnara",
+    "email": "daniele@brugnara.me",
+    "url": "http://brugnara.me"
+  },
+  "dependencies": {
+    "auto-keywords": "git://github.com/brugnara/auto-keywords",
+    "cheerio": "^0.16.0",
+    "npmlog": "^0.1.0",
+    "request": "^2.36.0"
+  }
+}
