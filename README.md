@@ -1,6 +1,5 @@
 web-analyzer
 ============
-<<<<<<< HEAD
 
 # Why
 
@@ -21,5 +20,3 @@ an.queue('http://repubblica.it');
 - Improve **auto-keywords** module to filter elements with at least X count
 - Drop **<script>** content
 - understand what the sites are talking about based on meta/title and content.
-=======
->>>>>>> ea4934409dd2948d7959c4ee62e3eec961a67653
